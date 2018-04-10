@@ -1,6 +1,6 @@
 tree
 array
 stack
-heap
+queue
 node
 vector
